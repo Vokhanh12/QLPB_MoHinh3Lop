@@ -1,0 +1,9 @@
+c:\users\m1\documents\visual studio 2015\Projects\QLPB\QLPB\bin\Debug\QLPB.exe.config
+c:\users\m1\documents\visual studio 2015\Projects\QLPB\QLPB\obj\Debug\QLPB.csprojResolveAssemblyReference.cache
+c:\users\m1\documents\visual studio 2015\Projects\QLPB\QLPB\obj\Debug\QLPB.GUI.phongGUI.resources
+c:\users\m1\documents\visual studio 2015\Projects\QLPB\QLPB\obj\Debug\QLPB.Properties.Resources.resources
+c:\users\m1\documents\visual studio 2015\Projects\QLPB\QLPB\obj\Debug\QLPB.csproj.GenerateResource.Cache
+c:\users\m1\documents\visual studio 2015\Projects\QLPB\QLPB\bin\Debug\QLPB.exe
+c:\users\m1\documents\visual studio 2015\Projects\QLPB\QLPB\bin\Debug\QLPB.pdb
+c:\users\m1\documents\visual studio 2015\Projects\QLPB\QLPB\obj\Debug\QLPB.exe
+c:\users\m1\documents\visual studio 2015\Projects\QLPB\QLPB\obj\Debug\QLPB.pdb
